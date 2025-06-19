@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @noisypacket
-- 👀 I’m interested in security projects
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on security projects
 - 📫 How to reach me interrupt987@gmail.com
 
 <!---
